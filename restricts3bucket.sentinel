@@ -1,4 +1,4 @@
-import "tfplan-functions" as plan
+import "tfplan" as plan
 
 # Get all S3 buckets
 
