@@ -1,5 +1,3 @@
-# all S3 buckets have public access disabled
-
 import "tfplan-functions" as plan
 
 # Get all S3 buckets
