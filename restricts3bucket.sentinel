@@ -1,4 +1,5 @@
-import "tfplan/v2" as plan
+import "tfplan" as plan
+import "strings"
 
 # Get all S3 buckets
 
