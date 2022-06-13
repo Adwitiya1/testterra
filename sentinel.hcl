@@ -1,4 +1,4 @@
 policy "restricts3bucket" {
   source            = "./restricts3bucket.sentinel"
-  enforcement_level = "hard-mandatory"
+  enforcement_level = "soft-mandatory"
 }
